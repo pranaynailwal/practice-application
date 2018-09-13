@@ -1,0 +1,3 @@
+com\pranay\practice\application\practiceapplicationservice\PracticeApplicationServiceApplication.class
+com\pranay\practice\application\practiceapplicationservice\ServletInitializer.class
+com\pranay\practice\application\practiceapplicationservice\controller\HomeController.class
